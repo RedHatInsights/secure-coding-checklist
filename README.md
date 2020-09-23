@@ -1,5 +1,5 @@
 Secure Coding Practices Checklist
- =================================
+=================================
 
 Purpose
 -------
@@ -8,8 +8,20 @@ The purpose of this document is to help developers bring a security mindset to w
 
 Table of Contents
 -----------------
-	* [Input Validation](#Input Validation)
-	* [Ouput Encoding](#Output Encoding)
+
+* [Input Validation](#input-validation)
+* [Output Encoding](#output-encoding)
+* [Authentication and Password Management](#authentication-and-password-management)
+* [Access Control](#access-control)
+* [Cryptographic Practices](#cryptographic-practices)
+* [Error Handling and Logging](#error-handling-and-logging)
+* [Data Protection](#data-protection)
+* [Communication Security](#communication-security)
+* [Database Security](#database-security)
+* [File Management](#file-management)
+* [Memory Management](#memory-management)
+* [General Coding Practices](#general-coding-practices)
+* [How To Implement a Checklist in Github Repositories](#how-to-implement-a-checklist-in-github-repositories)
 
 Input Validation
 ----------------
