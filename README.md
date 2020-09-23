@@ -268,7 +268,7 @@ One of the best ways to implement this is in a PR template for your repository. 
 
 ```
 ## Secure Coding Practices Checklist Jira Link
-- https://mojo.redhat.com/docs/DOC-1232129
+- https://github.com/xxlhacker/test/blob/master/README.md
 
 ## Secure Coding Checklist
 - [ ] Input Validation
