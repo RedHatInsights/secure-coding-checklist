@@ -4,7 +4,7 @@ Secure Coding Practices Checklist
 Purpose
 -------
 
-The purpose of this document is to help developers bring a security mindset to writing code. The idea is that when a developer writes code and is ready to deploy it they do a quick security check to make sure they have done their due diligence in securing their creation. This should be a good guideline when securing application code. Only pay attention to the sections that pertain to code. For example if you wrote something only have to do with databases, only look at the database portion. There is no need to read about file management unless your code does file management.
+The purpose of this document is to help developers bring a security mindset to writing code. The idea is that when a developer writes code and is ready to deploy it they do a quick security check to make sure they have done their due diligence in securing their creation. This should be a good guideline when securing application code. Only pay attention to the sections that pertain to code. For example if you wrote something only have to do with databases, only look at the database portion. There is no need to read about file management unless your code does file management. The list was provided by the Open Web Application Security Project (OWASP) and their best securing code practices.
 
 Table of Contents
 -----------------
