@@ -282,7 +282,7 @@ How To Implement a Checklist in Github Repositories
 One of the best ways to implement this is in a PR template for your repository. In your github repository make a pull_request_template.md file with the following information in it:
 
 ```
-## Secure Coding Practices Checklist Jira Link
+## Secure Coding Practices Checklist Link
 - TBD
 
 ## Secure Coding Checklist
