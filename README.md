@@ -283,7 +283,7 @@ One of the best ways to implement this is in a PR template for your repository. 
 
 ```
 ## Secure Coding Practices Checklist Link
-- TBD
+- https://github.com/RedHatInsights/secure-coding-checklist
 
 ## Secure Coding Checklist
 - [ ] Input Validation
